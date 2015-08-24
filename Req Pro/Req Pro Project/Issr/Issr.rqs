@@ -1,0 +1,18 @@
+[Project]
+Owner=Unknown
+Name=Issr
+GUID={72E52397-B527-488B-A4B8-E360FE3DAA28}
+CQWebURL=
+isTrackChangesAllowed=1
+Description=
+Owner Key=17
+Revision number=1.0014
+Prefix=
+NbrRequirements=202
+Directory=\\vboxsrv\Dropbox\ISSR\Req Pro\Issr\Issr.rqs
+Key=1
+
+[Application]
+Data file version=1.0041
+Program Version=9.1200.0.1
+
